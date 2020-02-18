@@ -1,2 +1,2 @@
 <?php
-	echo "This is my website in GitHub."
+	echo "This is my website in GitHub.";
